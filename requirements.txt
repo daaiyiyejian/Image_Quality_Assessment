@@ -1,0 +1,4 @@
+python==3.6
+numpy==1.14.3
+opencv-python==3.4.5+contrib
+xlwt==1.3.0
